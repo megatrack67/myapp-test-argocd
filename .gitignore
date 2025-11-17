@@ -1,1 +1,3 @@
-nohupout
+nohup.out
+service.old
+deployment.old
